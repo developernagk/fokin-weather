@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7AA1E1&height=130&section=header&text=Fokin%20Weather&fontSize=60&fontColor=f3f6f4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7AA1E1&height=170&section=header&text=Fokin%20Weather&fontSize=60&fontColor=f3f6f4)
 
 Learning React Native by Building a Forking Weather App
 ***
